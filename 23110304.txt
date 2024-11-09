@@ -1,0 +1,11 @@
+The word mother means: me
+The word learn means: hoc
+The word sheep means: con cuu
+Goc: mother
+{
+mother : me learn sheep
+learn : hoc drink NULL 
+drink : uong NULL NULL 
+sheep : con cuu NULL NULL 
+}
+

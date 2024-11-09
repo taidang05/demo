@@ -1,0 +1,9 @@
+0 4
+sheep, con cuu
+mother, me
+learn, hoc
+drink, uong
+2 mother
+2 learn
+2 sheep
+3
